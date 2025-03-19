@@ -2,6 +2,10 @@
 
 A personal energy and transportation monitoring application that helps users track, analyze, and reduce their carbon footprint.
 
+# Figma Design
+
+https://www.figma.com/design/eVUq3rvePlqaik74cehc5p/WPL_Project?node-id=0-1&t=icGgMgECmL7oiy0x-1
+
 ## Features
 
 - **User Authentication**: Secure login and registration system
